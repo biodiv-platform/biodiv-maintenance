@@ -1,0 +1,23 @@
+{
+  "name": "biodiv-maintenance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strandls/biodiv-maintenance.git"
+  },
+  "keywords": [],
+  "author": "harshzalavadiya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/strandls/biodiv-maintenance/issues"
+  },
+  "homepage": "https://github.com/strandls/biodiv-maintenance#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
